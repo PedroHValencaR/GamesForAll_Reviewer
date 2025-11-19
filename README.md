@@ -1,9 +1,3 @@
-Entendi. Vamos fazer uma versão **concisa e direta**, perfeita para o GitHub, focando apenas no essencial: o que é, o que usa e como rodar.
-
-Aqui está a versão resumida:
-
------
-
 # 🎮 Games for All - Reviewer
 
 Aplicativo mobile para consulta e criação de reviews de jogos, desenvolvido com arquitetura Full Stack.
